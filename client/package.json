@@ -15,6 +15,7 @@
     "url": "https://github.com/brucean52/chat_app.git"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
